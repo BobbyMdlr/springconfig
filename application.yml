@@ -23,4 +23,5 @@ microservice:
           girls:  Hasini , Bobby
        wife: sasi rekha
           
- 
+ welcome:
+    message: "Welcome to Yuvaraj's Family"
