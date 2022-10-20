@@ -15,13 +15,7 @@ microservice:
   order-service:
      endpoints:
         endpoint:
-           uri: http://ORDER-SERVICE/order/bookOrder   
-           
- family:
-   yuvaraju:
-       children:
-          girls:  Hasini , Bobby
-       wife: sasi rekha
-          
+           uri: http://ORDER-SERVICE/order/bookOrder              
+         
  welcome:
     message: "Welcome to Yuvaraj's Family"
